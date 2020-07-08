@@ -3,6 +3,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit some common Lineage stuff
+TARGET_BOOT_ANIMATION_RES := 1200
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Inherit from RMX2061 device
