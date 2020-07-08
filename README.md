@@ -21,13 +21,11 @@
 | Front camera 1   | 16 MP f/2.1 Sony IMX471                                             |
 | Front camera 2   | 8 MP f/2.2 (Ultrawide, 105°) Hynix HI846                            |
 | Flashlight       | Rear flash                                                          |
-| FingerPrint      | Yes Manufacturer: null                                              |
-| Accelerometer    | Yes Manufacturer: null                                              |
-| Magnetometer     | Yes Manufacturer: null                                              |
-| ALS/PS           | Yes                                                                 |
-| Notification LED | null                                                                |
-| SAR Sensor       | null                                                                |
-| Audio codec      | null                                                                |
+| FingerPrint      | Yes, Goodix                                                         |
+| Accelerometer    | Yes, BMI160                                                         |
+| Magnetometer     | Yes, AK0991X                                                        |
+| ALS/PS           | Yes, STK3A5X                                                        |
+| Audio codec      | Yes, NXP TFA98XX                                                    |
 | NFC              | Yes (RMX2063)                                                       |
 
 ## Device picture
